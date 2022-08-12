@@ -1,0 +1,35 @@
+body{
+    background: black;
+}
+.body{
+    background: white;
+    width: 500px;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+.texto{
+   display: flex;
+}
+.p1{
+    margin: 10px;
+    width: 420px;
+}
+.p2{
+    margin: 10px;
+    float: right;
+}
+#p2{
+    color: grey;
+}
+.header{
+    margin: auto;
+}
+
+.imagen{
+    margin: auto;
+}
+.texto2{
+    margin: 15px;
+}
